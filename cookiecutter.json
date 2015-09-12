@@ -1,0 +1,12 @@
+{
+	"author": "Francesco 'OpenCode' Apruzzese",
+	"email": "cescoap@gmail.com",
+	"github_username": "OpenCode",
+	"project_name": "Odoo Module",
+	"module_name": "odoo_module",
+	"project_short_description": "A cookiecutter template for odoo module",
+	"year": "2015",
+	"version": "0.1.0",
+	"category": "Uncategorized"
+}
+
